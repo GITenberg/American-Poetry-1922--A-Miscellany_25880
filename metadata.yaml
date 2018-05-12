@@ -27,7 +27,7 @@ contributor:
     - Alton, Delia
     - Aldington, Hilda Doolittle
     - Doolittle, Hilda
-    birthdate: &id001 1886
+    birthdate: 1886
     deathdate: 1961
     gutenberg_agent_id: '33478'
     url: http://www.gutenberg.org/2009/agents/33478
@@ -40,20 +40,20 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/570
     wikipedia: http://en.wikipedia.org/wiki/Conrad_Aiken
   - agent_name: Lowell, Amy
-    birthdate: &id002 1874
+    birthdate: 1874
     deathdate: 1925
     gutenberg_agent_id: '147'
     url: http://www.gutenberg.org/2009/agents/147
     wikipedia: http://en.wikipedia.org/wiki/Amy_Lowell
   - agent_name: Fletcher, John Gould
-    birthdate: *id001
-    deathdate: &id003 1950
+    birthdate: 1886
+    deathdate: 1950
     gutenberg_agent_id: '32529'
     url: http://www.gutenberg.org/2009/agents/32529
     wikipedia: http://en.wikipedia.org/wiki/John_Gould_Fletcher
   - agent_name: Frost, Robert
     alias: Frost, Robert Lee
-    birthdate: *id002
+    birthdate: 1874
     deathdate: 1963
     gutenberg_agent_id: '1091'
     url: http://www.gutenberg.org/2009/agents/1091
@@ -63,7 +63,7 @@ contributor:
     - Boyd, Nancy
     - Boissevain, Edna St. Vincent Millay
     birthdate: 1892
-    deathdate: *id003
+    deathdate: 1950
     gutenberg_agent_id: '70'
     url: http://www.gutenberg.org/2009/agents/70
     wikipedia: http://en.wikipedia.org/wiki/Edna_St._Vincent_Millay
@@ -75,7 +75,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/234
     wikipedia: http://en.wikipedia.org/wiki/Vachel_Lindsay
   - agent_name: Untermeyer, Jean Starr
-    birthdate: *id001
+    birthdate: 1886
     deathdate: 1970
     gutenberg_agent_id: '35238'
     url: http://www.gutenberg.org/2009/agents/35238
@@ -98,6 +98,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25880#American-Poetry-1922--A-Miscellany
 gutenberg_issued: '2008-06-23'
 gutenberg_type: Text
 identifiers:

@@ -1,0 +1,114 @@
+_repo: American-Poetry-1922--A-Miscellany_25880
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Oppenheim, James
+    birthdate: 1882
+    deathdate: 1932
+    gutenberg_agent_id: '3958'
+    url: http://www.gutenberg.org/2009/agents/3958
+    wikipedia: http://en.wikipedia.org/wiki/James_Oppenheim
+  - agent_name: Untermeyer, Louis
+    birthdate: 1885
+    deathdate: 1977
+    gutenberg_agent_id: '32242'
+    url: http://www.gutenberg.org/2009/agents/32242
+    wikipedia: http://en.wikipedia.org/wiki/Louis_Untermeyer
+  - agent_name: Kreymborg, Alfred
+    birthdate: 1883
+    deathdate: 1966
+    gutenberg_agent_id: '35239'
+    url: http://www.gutenberg.org/2009/agents/35239
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Kreymborg
+  - agent_name: H. D. (Hilda Doolittle)
+    aliases:
+    - H.D.
+    - Helforth, John
+    - Alton, Delia
+    - Aldington, Hilda Doolittle
+    - Doolittle, Hilda
+    birthdate: &id001 1886
+    deathdate: 1961
+    gutenberg_agent_id: '33478'
+    url: http://www.gutenberg.org/2009/agents/33478
+    wikipedia: http://en.wikipedia.org/wiki/H.D.
+  - agent_name: Aiken, Conrad
+    alias: Aiken, Conrad Potter
+    birthdate: 1889
+    deathdate: 1973
+    gutenberg_agent_id: '570'
+    url: http://www.gutenberg.org/2009/agents/570
+    wikipedia: http://en.wikipedia.org/wiki/Conrad_Aiken
+  - agent_name: Lowell, Amy
+    birthdate: &id002 1874
+    deathdate: 1925
+    gutenberg_agent_id: '147'
+    url: http://www.gutenberg.org/2009/agents/147
+    wikipedia: http://en.wikipedia.org/wiki/Amy_Lowell
+  - agent_name: Fletcher, John Gould
+    birthdate: *id001
+    deathdate: &id003 1950
+    gutenberg_agent_id: '32529'
+    url: http://www.gutenberg.org/2009/agents/32529
+    wikipedia: http://en.wikipedia.org/wiki/John_Gould_Fletcher
+  - agent_name: Frost, Robert
+    alias: Frost, Robert Lee
+    birthdate: *id002
+    deathdate: 1963
+    gutenberg_agent_id: '1091'
+    url: http://www.gutenberg.org/2009/agents/1091
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Frost
+  - agent_name: Millay, Edna St. Vincent
+    aliases:
+    - Boyd, Nancy
+    - Boissevain, Edna St. Vincent Millay
+    birthdate: 1892
+    deathdate: *id003
+    gutenberg_agent_id: '70'
+    url: http://www.gutenberg.org/2009/agents/70
+    wikipedia: http://en.wikipedia.org/wiki/Edna_St._Vincent_Millay
+  - agent_name: Lindsay, Vachel
+    alias: Lindsay, Nicholas Vachel
+    birthdate: 1879
+    deathdate: 1931
+    gutenberg_agent_id: '234'
+    url: http://www.gutenberg.org/2009/agents/234
+    wikipedia: http://en.wikipedia.org/wiki/Vachel_Lindsay
+  - agent_name: Untermeyer, Jean Starr
+    birthdate: *id001
+    deathdate: 1970
+    gutenberg_agent_id: '35238'
+    url: http://www.gutenberg.org/2009/agents/35238
+  - agent_name: Teasdale, Sara
+    aliases:
+    - Filsinger, Sara
+    - Teasdale, S. (Sara)
+    birthdate: 1884
+    deathdate: 1933
+    gutenberg_agent_id: '223'
+    url: http://www.gutenberg.org/2009/agents/223
+    wikipedia: http://en.wikipedia.org/wiki/Sara_Teasdale
+  - agent_name: Sandburg, Carl
+    birthdate: 1878
+    deathdate: 1967
+    gutenberg_agent_id: '32447'
+    url: http://www.gutenberg.org/2009/agents/32447
+    wikipedia: http://en.wikipedia.org/wiki/Carl_Sandburg
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2008-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25880'
+language: en
+publication_note: 'New York :  Harcourt, Brace and Company,  1922'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry -- 20th century'
+- !lcc 'PS'
+title: 'American Poetry, 1922: A Miscellany'
+url: http://www.gutenberg.org/ebooks/25880
